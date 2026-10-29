@@ -64,11 +64,10 @@ An internet connection is required to download the dataset and install Python pa
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mlflow-elasticnet-experiment-tracking.git
+git clone https://github.com/dhirajpatil-ai/mlflow-elasticnet-experiment-tracking.git
 cd mlflow-elasticnet-experiment-tracking
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 Alternatively, download the repository as a ZIP file and extract it.
 
